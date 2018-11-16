@@ -1,6 +1,6 @@
 # R API Tutorial (with docker!)
 
-This code is what was used in our blog posts on [using R to make an API](link) and [using R with docker](link).
+This code is what was used in our blog posts on [using R to make an API](https://medium.com/@heathernolis/r-can-api-c184951a24a3) and [using R with docker](https://medium.com/@skyetetra/using-docker-to-deploy-an-r-plumber-api-863ccf91516d).
 
 The three R files are used to create a simple API with the plumber R library. The dockerfile can be used to take the API and create a docker container with it.
 
